@@ -590,3 +590,7 @@ java -cp ./examples/simpleapp/target/sidechains-sdk-simpleapp-0.2.6.jar:./exampl
 
 Now my side chain is alive!
 ![sidechain-running](./assets/sidechain-running.png)
+
+## Sidechain on port 9085
+
+![port](./assets/sidechain-9085.png)
