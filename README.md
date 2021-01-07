@@ -601,3 +601,5 @@ _____
 The process of sending ZEN from the mainchain to the sidechain, between the sidechain and the ZEN claim, I did it twice since the first time I did not understand the process-epoch and so on very well.
 
 the first attempt save it in this [file]().
+
+## Sending ZEN from mainchain to sidechain
