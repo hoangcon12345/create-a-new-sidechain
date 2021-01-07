@@ -36,7 +36,7 @@ First I installed the requirements of
 - Maven
 
 Basically I followed the same steps as in the task: [Test sidechain functionalities with Sphere by Horizen 2.0.0
-](https://github.com/luisantoniocrag/test-sidechain-functionalities-with-Sphere-by-Horizen-2.0.0) but I used this command to build: `java -jar tools/sctool/target/sidechains-sdk-scbootstrappingtools-0.2.6.jar`
+](https://github.com/luisantoniocrag/test-sidechain-functionalities-with-Sphere-by-Horizen-2.0.0). 
 
 ![build-success](./assets/sidechains-sdk-build.png)
 
@@ -58,3 +58,5 @@ Basically I followed the same steps as in the task: [Test sidechain functionalit
 [INFO] Finished at: 2021-01-06T18:55:03-06:00
 [INFO] ------------------------------------------------------------------------
 ```
+
+and then `java -jar tools/sctool/target/sidechains-sdk-scbootstrappingtools-0.2.6.jar` to activate the bootstrapping tools.
