@@ -27,3 +27,16 @@
 
 | Start a sidechain node| https://github.com/luisantoniocrag/create-a-new-sidechain/blob/main/start-sidechain-node.md |
 | ----- | ---- |
+
+## Perform a Forward Transfer from the mainchain to the sidechain
+
+| | |
+| ----- | ---- |
+
+
+## Perform a transfer inside the sidechain
+
+| | |
+| ----- | ---- |
+
+## Perform a Withdrawal Request from the sidechain
