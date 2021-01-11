@@ -18,12 +18,12 @@
 
 | Step | Link |
 | ----- | ---- |
-| Zend_oo | https://github.com/luisantoniocrag/create-a-new-sidechain/blob/main/building-zend-oo.md |
-| Sidechains SDK | https://github.com/luisantoniocrag/create-a-new-sidechain/blob/main/building-sidechains-sdk.md |
+| Build Zend_oo | https://github.com/luisantoniocrag/create-a-new-sidechain/blob/main/building-zend-oo.md |
+| Build Sidechains SDK | https://github.com/luisantoniocrag/create-a-new-sidechain/blob/main/building-sidechains-sdk.md |
 | Declare SC | https://github.com/luisantoniocrag/create-a-new-sidechain/blob/main/sidechain-declaration.md |
-| Start a sidechain node| https://github.com/luisantoniocrag/create-a-new-sidechain/blob/main/start-sidechain-node.md |
+| Start the sidechain node| https://github.com/luisantoniocrag/create-a-new-sidechain/blob/main/start-sidechain-node.md |
 | Perform forward transfer from the mainchain to the sidechain | https://github.com/luisantoniocrag/create-a-new-sidechain/blob/main/mainchain-to-sidechain.md |
 | Perform a transfer inside the sidechain | https://github.com/luisantoniocrag/create-a-new-sidechain/blob/main/inside-the-sidechain.md |
-| Perform a Withdrawal Request from the sidechain | https://github.com/luisantoniocrag/create-a-new-sidechain/blob/main/withdrawal-request-from-the-sidechain.md |
+| Perform a Withdrawal Request from the sidechain and get the coins | https://github.com/luisantoniocrag/create-a-new-sidechain/blob/main/withdrawal-request-from-the-sidechain.md |
 
 
