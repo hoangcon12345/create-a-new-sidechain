@@ -18,12 +18,12 @@
 
 
 ## Sidechain declaration
-
-| ----- | ---- |
+| | |
 | Declare SC | https://github.com/luisantoniocrag/create-a-new-sidechain/blob/main/sidechain-declaration.md |
+| ----- | ---- |
 
 
 ## Start Sidechain
-
-| ----- | ---- |
+| | |
 | Start a sidechain node|  |
+| ----- | ---- |
