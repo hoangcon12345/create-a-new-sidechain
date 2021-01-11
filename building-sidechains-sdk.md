@@ -35,10 +35,9 @@ Basically I followed the same steps as in the task: [Test sidechain functionalit
 and then `java -jar tools/sctool/target/sidechains-sdk-scbootstrappingtools-0.2.6.jar` to activate the bootstrapping tools.
 
 ## Generate keypairs for first Forger box in Sidechain
-```
-generatekey {"seed":"VqGs2tP72LrpQ6X4s9mnmchCjWf276ts"}
-```
-Response:
+
+**generatekey {"seed":"VqGs2tP72LrpQ6X4s9mnmchCjWf276ts"}**
+
 ```
 {
 "secret":"00f3212b6df9c5cacabd8d3f64a92c42eeaccdfc45c2fddf50d3baff71c96d6cb09c31622802b4f079026bc16b13f52e51c8b5230b5d8a6346814bd8d4229fbaca",
@@ -47,10 +46,8 @@ Response:
 
 ```
 
-```
-generateVrfKey {"seed":"uRRZdNF68jgM2uZqdWVJDdVSxS7RhBqH"}
-```
-Response:
+**generateVrfKey {"seed":"uRRZdNF68jgM2uZqdWVJDdVSxS7RhBqH"}**
+
 ```
 {
 "vrfSecret":"030000006008f54b603859f493954e6ae2d34811ead3297b7f44b4046f0815e1c0ac546414b1668929bc7c56b54d76c48bfdc0af5e2b2261096a78955d3c472f0ce5b6cc3d1dbeeb021b2e4e3815567d69bcd4bb883d241acf0a2a185e48b5fff5eb220000b2a5c0330c25acb00dfc83efe866e3346817ad4fc7c4b308a835a745460881fe76381330556eab3ef2eda66df0ab7b069d6261aae76d1843e53ec7dfd39f221c5e06d623dccb30b9938c686298788030167db12bd4260ea80366e5ededae0000cae29a4fb8b2ead93e3caa39bd4170fa35aae9145f2fbca207eb49c749b9c78e279fd1cc8673a3ac184fc34a6b75117f7cdd425a7c8b4309e4f95085a9f53637a108224a9405a1e4c19974833f831014f446e31ef50f3fdece3e4b1b69d8000000",
@@ -58,10 +55,8 @@ Response:
 }
 ```
 
-```
-generateProofInfo {"seed":"RNsccLKjykkKu7w7yrqFtLS3kYtg6kLa", "keyCount":7, "threshold":5}
-```
-Response:
+**generateProofInfo {"seed":"RNsccLKjykkKu7w7yrqFtLS3kYtg6kLa", "keyCount":7, "threshold":5}**
+
 ```
 {
 "threshold":5,
