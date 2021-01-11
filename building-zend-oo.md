@@ -9,12 +9,21 @@ $ sudo apt-get install \
       zlib1g-dev bsdmainutils automake curl
 ```
 I moved to `Desktop` and:
+
+Get repository
 ```
 $ git clone https://github.com/HorizenOfficial/zend_oo.git && cd zend_oo
-# Build
+```
+Build
+```
 $ ./zcutil/build.sh -j$(nproc)
-# fetch key
+```
+Fetch key
+```
 $ ./zcutil/fetch-params.sh
-# Run
+```
+Run
+```
+$ ./src/zend -regtest -websocket
 $ ./src/zend -regtest -websocket
 ```
