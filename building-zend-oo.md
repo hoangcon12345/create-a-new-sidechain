@@ -1,6 +1,4 @@
-## Zend_oo and Sidechains-SDK build
-
-### 1. Zend_oo
+# Zend_oo
 I got dependencies with
 ```
 $ sudo apt-get install \
