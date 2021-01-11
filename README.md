@@ -9,7 +9,8 @@
 ## Zend_oo and Sidechains-SDK build
 
 | Zend_oo | https://github.com/luisantoniocrag/create-a-new-sidechain/blob/main/building-zend-oo.md |
-| ----- | ---- |
+| Sidechains SDK | https://github.com/luisantoniocrag/create-a-new-sidechain/blob/main/building-sidechains-sdk.md |
+
 
 
 ## Sidechain declaration
