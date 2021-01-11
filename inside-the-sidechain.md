@@ -17,7 +17,7 @@ $ curl -X POST "http://127.0.0.1:9085/wallet/createPrivateKey25519" -H "accept: 
 }
 ```
 
-## Transactions
+## Transaction
 ```
 $ curl -X POST "http://127.0.0.1:9085/transaction/sendCoinsToAddress" -H "accept: application/json" -H "Content-Type: application/json" -d "{\"outputs\":[{\"publicKey\":\"c6869f3aa8928fe57c24d41ceaca6a1fc57a6bdfdf309dc2de7552790c514bcc\",\"value\":1000000000}],\"fee\":0}"
 ```
