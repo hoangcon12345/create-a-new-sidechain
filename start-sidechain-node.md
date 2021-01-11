@@ -36,7 +36,7 @@ $ java -jar tools/sctool/target/sidechains-sdk-scbootstrappingtools-0.2.6.jar ge
 
 ## Update Sidechain configuration file
 
-This is what my config file looked like after editing it.
+This is what my config file `my_settings.conf`.
 
 ```
 scorex {
@@ -98,7 +98,17 @@ scorex {
     powData = "c9eafb5f030f0f20c9eafb5f030f0f20c9eafb5f030f0f20c8eafb5f030f0f20c8eafb5f030f0f20c8eafb5f030f0f20c8eafb5f030f0f20c8eafb5f030f0f20c8eafb5f030f0f20c7eafb5f030f0f20c7eafb5f030f0f20c7eafb5f030f0f20c7eafb5f030f0f20c7eafb5f030f0f20c7eafb5f030f0f20c6eafb5f030f0f20c6eafb5f040f0f20c6eafb5f040f0f20c6eafb5f040f0f20c6eafb5f040f0f20c6eafb5f040f0f20c5eafb5f040f0f20c5eafb5f040f0f20c5eafb5f040f0f20c5eafb5f040f0f20c5eafb5f040f0f20c5eafb5f040f0f20c4eafb5f040f0f20"
     mcBlockHeight = 221
     mcNetwork = regtest
-	
+    withdrawalEpochLength = 10
   }	
 }
+
+```
+Then...
+```
+$ java -cp ./examples/simpleapp/target/sidechains-sdk-simpleapp-0.2.6.jar:./examples/simpleapp/target/lib/* com.horizen.examples.SimpleApp ./examples/simpleapp/src/main/resources/my_settings.conf
+```
+
+```
+....
+Simple Sidechain application successfully started...
 ```
