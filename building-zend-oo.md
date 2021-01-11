@@ -14,6 +14,10 @@ Get repository
 ```
 $ git clone https://github.com/HorizenOfficial/zend_oo.git && cd zend_oo
 ```
+Branch checkout
+```
+$ git checkout sidechains_testnet
+```
 Build
 ```
 $ ./zcutil/build.sh -j$(nproc)
