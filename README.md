@@ -6,40 +6,14 @@
 | Zend_oo  | v2.1.0-beta4 |
 | Sidechain SDK | v0.2.6 |
 
-## Zend_oo and Sidechains-SDK build
-
-| | |
-| ----- | ---- |
-| Zend_oo | https://github.com/luisantoniocrag/create-a-new-sidechain/blob/main/building-zend-oo.md |
-| Sidechains SDK | https://github.com/luisantoniocrag/create-a-new-sidechain/blob/main/building-sidechains-sdk.md |
-
-
-
-
-
-## Sidechain declaration
+## Index
 
 | Task | Link |
 | ----- | ---- |
+| Zend_oo | https://github.com/luisantoniocrag/create-a-new-sidechain/blob/main/building-zend-oo.md |
+| Sidechains SDK | https://github.com/luisantoniocrag/create-a-new-sidechain/blob/main/building-sidechains-sdk.md |
 | Declare SC | https://github.com/luisantoniocrag/create-a-new-sidechain/blob/main/sidechain-declaration.md |
-
-
-## Start Sidechain
-
-| Task| Link |
-| ----- | ---- |
 | Start a sidechain node| https://github.com/luisantoniocrag/create-a-new-sidechain/blob/main/start-sidechain-node.md |
-
-## Perform a Forward Transfer from the mainchain to the sidechain
-
-| Task| Link |
-| ----- | ---- |
-| Forward Transfer from the mainchain to the sidechain| https://github.com/luisantoniocrag/create-a-new-sidechain/blob/main/mainchain-to-sidechain.md |
-
-
-## Perform a transfer inside the sidechain
-
-| | |
-| ----- | ---- |
-
-## Perform a Withdrawal Request from the sidechain
+| Perform forward transfer from the mainchain to the sidechain | https://github.com/luisantoniocrag/create-a-new-sidechain/blob/main/mainchain-to-sidechain.md |
+| Perform a transfer inside the sidechain |  |
+| Perform a Withdrawal Request from the sidechain |  |
