@@ -19,19 +19,22 @@
 
 ## Sidechain declaration
 
-| Declare SC | https://github.com/luisantoniocrag/create-a-new-sidechain/blob/main/sidechain-declaration.md |
+| Task | Link |
 | ----- | ---- |
+| Declare SC | https://github.com/luisantoniocrag/create-a-new-sidechain/blob/main/sidechain-declaration.md |
 
 
 ## Start Sidechain
 
-| Start a sidechain node| https://github.com/luisantoniocrag/create-a-new-sidechain/blob/main/start-sidechain-node.md |
+| Task| Link |
 | ----- | ---- |
+| Start a sidechain node| https://github.com/luisantoniocrag/create-a-new-sidechain/blob/main/start-sidechain-node.md |
 
 ## Perform a Forward Transfer from the mainchain to the sidechain
 
-| | |
+| Task| Link |
 | ----- | ---- |
+| Forward Transfer from the mainchain to the sidechain| https://github.com/luisantoniocrag/create-a-new-sidechain/blob/main/mainchain-to-sidechain.md |
 
 
 ## Perform a transfer inside the sidechain
