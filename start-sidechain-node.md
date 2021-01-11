@@ -32,5 +32,11 @@ $ java -jar tools/sctool/target/sidechains-sdk-scbootstrappingtools-0.2.6.jar ge
 "mcNetwork":"regtest",
 "withdrawalEpochLength":10
 }
+```
 
+## Update Sidechain configuration file
+
+This is what my config file looked like after editing it.
+
+```
 ```
