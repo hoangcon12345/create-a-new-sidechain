@@ -25,5 +25,5 @@
 
 ## Start Sidechain
 
-| Start a sidechain node|  |
+| Start a sidechain node| https://github.com/luisantoniocrag/create-a-new-sidechain/blob/main/start-sidechain-node.md |
 | ----- | ---- |
