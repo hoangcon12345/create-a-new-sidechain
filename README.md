@@ -8,7 +8,7 @@
 
 ## Index
 
-| Task | Link |
+| TStep | Link |
 | ----- | ---- |
 | Zend_oo | https://github.com/luisantoniocrag/create-a-new-sidechain/blob/main/building-zend-oo.md |
 | Sidechains SDK | https://github.com/luisantoniocrag/create-a-new-sidechain/blob/main/building-sidechains-sdk.md |
@@ -17,3 +17,9 @@
 | Perform forward transfer from the mainchain to the sidechain | https://github.com/luisantoniocrag/create-a-new-sidechain/blob/main/mainchain-to-sidechain.md |
 | Perform a transfer inside the sidechain | https://github.com/luisantoniocrag/create-a-new-sidechain/blob/main/inside-the-sidechain.md |
 | Perform a Withdrawal Request from the sidechain |  |
+
+> Problems
+
+| Especification | Link|
+| ----- | ---- |
+| |  |
