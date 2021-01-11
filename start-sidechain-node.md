@@ -113,4 +113,4 @@ $ java -cp ./examples/simpleapp/target/sidechains-sdk-simpleapp-0.2.6.jar:./exam
 Simple Sidechain application successfully started...
 ```
 
-All work fine on: http://localhost:9085/swagger
+Everything works fine: http://localhost:9085/swagger
