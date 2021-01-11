@@ -11,7 +11,7 @@
 | Especification | Link|
 | ----- | ---- |
 | Json expected | https://github.com/luisantoniocrag/create-a-new-sidechain/blob/main/start-sidechain-node.md#Forming-Sidechain-genesis-block-in-hex-string |
-| Why my balance is 7.50000891 after I sent 10 ZEN and generate 1000 blocks? | https://github.com/luisantoniocrag/create-a-new-sidechain/blob/main/start-sidechain-node.md#Forming-Sidechain-genesis-block-in-hex-string |
+| Why my balance is 7.50000891 after I sent 10 ZEN and generate 1000 blocks? | https://github.com/luisantoniocrag/create-a-new-sidechain/blob/main/withdrawal-request-from-the-sidechain.md#check-balance |
 
 
 ## Steps
