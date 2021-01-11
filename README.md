@@ -15,5 +15,5 @@
 | Declare SC | https://github.com/luisantoniocrag/create-a-new-sidechain/blob/main/sidechain-declaration.md |
 | Start a sidechain node| https://github.com/luisantoniocrag/create-a-new-sidechain/blob/main/start-sidechain-node.md |
 | Perform forward transfer from the mainchain to the sidechain | https://github.com/luisantoniocrag/create-a-new-sidechain/blob/main/mainchain-to-sidechain.md |
-| Perform a transfer inside the sidechain |  |
+| Perform a transfer inside the sidechain | https://github.com/luisantoniocrag/create-a-new-sidechain/blob/main/inside-the-sidechain.md |
 | Perform a Withdrawal Request from the sidechain |  |
