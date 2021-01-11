@@ -116,7 +116,7 @@ $ curl -X POST "http://127.0.0.1:9085/block/generate" -H "accept: application/js
 ## Verify sidechain balance
 
 ```
-curl -X POST "http://127.0.0.1:9085/wallet/balance" -H "accept: application/json"
+$ curl -X POST "http://127.0.0.1:9085/wallet/balance" -H "accept: application/json"
 ```
 
 ```
